@@ -1,6 +1,5 @@
 title: "Welcome to Obsidian Sound"
-date: 2025-08-05
-image: /assets/images/obsidian_sound_cover.png
+date: 2025-08-09
 tags: [A&R, music strategy, African music]
 intro: "Obsidian Sound is here to shine a light on underground African artists ready to rise."
 ---
